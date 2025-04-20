@@ -2,13 +2,6 @@
 
 I'm a full-stack developer with a passion for coding, gaming, and drumming. I love diving into new challenges, learning cutting-edge tech, and contributing to projects that make a difference. When I'm not coding, you can find me jamming on my drums or brainstorming game dev ideas.
 
-![alano911's GitHub stats](https://github-readme-stats.vercel.app/api?username=alano911&show_icons=true&theme=radical)
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 👀 About Me
 I'm all about building cool stuff and pushing my skills to the next level. Whether it's crafting web apps, experimenting with game dev, or tweaking open-source projects, I'm in! My goal is to blend my love for coding with my creative side—think games with killer soundtracks.
 
