@@ -1,13 +1,16 @@
 name: Update README with Recent Activity
+
 on:
   schedule:
-    - cron: '*/30 * * * *' # รันทุก 30 นาที
-  workflow_dispatch: # อนุญาตให้รัน manual ได้
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3 # อัปเดตเป็น v3 เพื่อความทันสมัย
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
